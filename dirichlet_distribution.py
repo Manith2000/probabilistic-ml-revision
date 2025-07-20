@@ -1,0 +1,1 @@
+'''Dirichilet Distribution - a generalisation of the Beta distribution to multiple'''

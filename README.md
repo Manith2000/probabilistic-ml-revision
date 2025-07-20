@@ -1,6 +1,8 @@
 ### Probabilistic Machine Learning (Revision & Recap) 
 Revising & Recapping things from Probability Machine Learning, Kevin Murphy
 
+### Other things 
+* Luce-Shepard choice rule (mathematical model for choices based on matching law)
 
 ### Reference
 
